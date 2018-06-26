@@ -1,0 +1,1 @@
+Data of this repository are from Grazy(http://help.glazy.org/about/#about-the-software)
