@@ -1,0 +1,2 @@
+・mean, median, modeのどれが適切か
+        modeは全然ダメ。mean, medianは違いが小さく、どちらでもいい感じがする。わかりやすさでmeanが一番いいかな。
